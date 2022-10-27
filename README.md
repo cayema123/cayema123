@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carla Adente
-- 👀 I’m interested in Manual testing,Automation Testing and Data base
+- 👀 I’m interested in functional analyst, testing.
 - 🌱 I’m currently learning Manual testing and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
