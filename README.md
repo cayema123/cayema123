@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carla Adente
 - 👀 I’m interested in functional analyst, testing.
-- 🌱 I’m currently learning Programing full stack
+- 🌱 I’m currently learning  K8s, Programing full stack.
 - 💞️ I’m looking to collaborate on Manual testing
 - 📫 How to reach me ...
 
